@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HajarB96
+- 👋 Hi, I’m Hajar.
 - 👀 I’m interested in Data and IA.
 - 🌱 I’m currently learning how to become a Data Analyst.
 - 💞️ I’m looking for collaborations in projects using Python. 
