@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hajar.
-- 👀 I’m interested in Data and IA.
+- 👀 I’m interested in Data and BI.
 - 🌱 I’m currently learning how to become a Data Analyst.
 - 💞️ I’m looking for collaborations in projects using Python. 
 - 📫 You can contact me by Email to : hajarbachiri96@gmail.com
